@@ -1,0 +1,70 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{195, 254}, {193, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "3247B4DF-9222-43D8-BC10-2DB0B3BA04E3",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Francisco Lee",
+          "name" : "3_line_introductions_GUI",
+          "font_size" : 24
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{203, 285}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "3B10BF11-1FFD-4537-A9AD-A7DBBEA473D7",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ottawa",
+          "name" : "3_line_introductions_GUI",
+          "font_size" : 24
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{195, 317}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "5D57974A-B287-4B8F-878B-3B743EB147BC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ontario",
+          "name" : "_3_line_introductions",
+          "font_size" : 24
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
