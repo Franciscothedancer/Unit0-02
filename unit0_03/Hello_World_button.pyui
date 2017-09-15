@@ -1,0 +1,51 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{230, 254}, {150, 72}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "def hello_world_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Click me!",
+          "class" : "Button",
+          "uuid" : "E970B752-2E9A-4AB0-A64F-BC056874D977",
+          "font_size" : 15,
+          "name" : "Hello_World_button"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{230, 198}, {150, 56}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "Hello_World_Button",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "841F0959-69D0-4AAE-BA2E-462FEEE157A8",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Hello, World!",
+          "font_size" : 18,
+          "font_name" : "AlNile-Bold"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
