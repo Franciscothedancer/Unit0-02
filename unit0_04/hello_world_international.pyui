@@ -1,0 +1,88 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{343, 370}, {150, 79}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "62F0607E-6A96-4813-9EF8-EF8AFE260032",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Hello world international",
+          "name" : "hello_world_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{225, 209}, {80, 93}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "english_touch_up_imside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "English",
+          "uuid" : "7CF46EE0-A910-4C7C-B09E-AC20EAF86197",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "hello_world_label",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{331, 209}, {80, 87}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "french_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "French",
+          "uuid" : "7D9F510B-E362-4708-849E-C37A91CA45ED",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "hello_world_label",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{434, 209}, {80, 87}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "spanish_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Spanish",
+          "uuid" : "4922D3DD-6310-4C75-B7EC-3477070FE164",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "hello_world_label",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
